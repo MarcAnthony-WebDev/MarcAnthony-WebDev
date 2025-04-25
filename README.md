@@ -1,9 +1,17 @@
 # 👋 Hey, I’m Marc Anthony
+I'm a web developer passionate about crafting sleek, performant web apps using modern technologies.
 
-I'm a web developer passionate about crafting sleek, performant web apps using modern technologies like:
-⚛️ **React**, **Next.js**, **TypeScript** & much more
+Stack:
+**Next.js**
+**React**
+**TypeScript**
+**Tailwindcss**
+**Zod**
+**PostgreSQL**
+**Prisma ORM**
+and many more.
 
-I love collaborating on projects that blend creativity and clean code — whether it's a polished product or an experimental idea.
+I love collaborating on projects and learning new tech! 
 
 ---
 
